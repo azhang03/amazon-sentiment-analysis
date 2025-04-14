@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """
 Script for training sentiment analysis models on the Amazon reviews dataset.
 """
