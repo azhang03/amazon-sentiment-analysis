@@ -27,7 +27,7 @@ This project performs sentiment analysis on Amazon product reviews using machine
 
 ## Results
 
-[To be added after model implementation]
+To-be-updated b/c Im lazy
 
 ## Done And Available
 - text processing, training, prediction, etc... (pretty much everything in the src folder)
